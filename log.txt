@@ -1,0 +1,1 @@
+Unexpected list index out of range, <class 'IndexError'> , /home/npavlov/PycharmProjects/pochta_parser/main.py , 32
